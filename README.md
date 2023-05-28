@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://dscvit.com">
+<a href="https://gdsciare.club">
 	<img width="400" src="https://user-images.githubusercontent.com/81429137/197771787-7a37fc03-4da8-44cf-afa6-b9435f92bdb1.png#gh-light-mode-only" alt="GDSC IARE"/>
 </a>
 	<h1 align="center"> < Insert Project Title Here > </h2>
